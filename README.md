@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0942-di-string-match](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
