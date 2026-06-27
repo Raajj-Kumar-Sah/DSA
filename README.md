@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0942-di-string-match](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0942-di-string-match) |
 ## Greedy
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Math
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
