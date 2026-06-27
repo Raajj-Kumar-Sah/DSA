@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1486-xor-operation-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
