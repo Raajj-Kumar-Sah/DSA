@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0709-to-lower-case) |
