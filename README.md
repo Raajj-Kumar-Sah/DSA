@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0086-partition-list) |
 | [0832-flipping-an-image](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0942-di-string-match) |
 ## String
