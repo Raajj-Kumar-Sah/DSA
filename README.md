@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 ## Two Pointers
 |  |
 | ------- |
