@@ -55,8 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
-| [0203-remove-linked-list-elements](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -129,12 +130,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Sliding Window
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-## Recursion
+## Depth-First Search
 |  |
 | ------- |
-| [0203-remove-linked-list-elements](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
