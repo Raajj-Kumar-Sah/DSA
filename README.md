@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0575-distribute-candies](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0832-flipping-an-image) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0575-distribute-candies](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0804-unique-morse-code-words) |
