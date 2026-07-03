@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0832-flipping-an-image](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0929-unique-email-addresses](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0942-di-string-match) |
 | [1332-remove-palindromic-subsequences](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
