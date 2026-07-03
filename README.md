@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,4 +176,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
