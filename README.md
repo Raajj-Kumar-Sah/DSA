@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0503-next-greater-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -218,9 +219,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
