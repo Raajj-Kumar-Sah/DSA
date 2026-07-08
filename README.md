@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
