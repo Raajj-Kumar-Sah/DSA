@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Enumeration
 |  |
 | ------- |
