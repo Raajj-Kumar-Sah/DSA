@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Math
