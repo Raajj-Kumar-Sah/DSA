@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0942-di-string-match](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
