@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1291-sequential-digits) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
