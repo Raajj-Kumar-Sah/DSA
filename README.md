@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
