@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
