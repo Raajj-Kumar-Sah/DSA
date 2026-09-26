@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-increasing-decreasing-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-increasing-decreasing-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
