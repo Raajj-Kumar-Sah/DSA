@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
