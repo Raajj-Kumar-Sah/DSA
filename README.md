@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0258-add-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1486-xor-operation-in-an-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0258-add-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Minimax
 |  |
