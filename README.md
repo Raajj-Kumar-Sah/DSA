@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -381,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
