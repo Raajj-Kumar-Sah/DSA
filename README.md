@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
