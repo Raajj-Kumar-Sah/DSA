@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3360-stone-removal-game](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Raajj-Kumar-Sah/Leetcode/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
